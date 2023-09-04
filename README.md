@@ -8,6 +8,7 @@ The mazes in this program are hard-coded. If you would like to create your own m
 - Use `|` for non-open spaces and non-blockers
 - Use `\n` to break each row of the maze
 - The maze should be a single string
+
 To implement this in the code, be sure to do the following
 1. Assign your maze string to a variable. Refer to `lines 5 to 8`.
 2. Add your maze variable to the `fetch_blank_maze()` method. Refer to `lines 58 to 54`.
