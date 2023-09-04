@@ -19,8 +19,6 @@ To implement this in the code, be sure to do the following
 3. In the command line, make sure that you are currently in the directory with the maze.py file. Then, type `python maze.py` if you have Python 2 and Python 3 installed, or `python3 maze.py` if you have Python 3.
 4. Input the number of the level you wanna play!
 5. Input a start position (Positions: Level 1 - 0 to 8, Level 2 - 0 to 14, Level 3 - 0 to 24).
-6. Input an exit position (Positions: Level 1 - 0 to 8, Level 2 - 0 to 14, Level 3 - 0 to 24).
-   
-**NOTE:** You *can* technically input the same position for both the start and exit positions, but this will immediately result in a victory and terminate the program. You may input an exit position that is higher in number than the start position, and vice versa.
-7. Input a move. Available moves will be displayed. Repeat until you reach the exit position.
-8. Once you reach the exit position, congratulations! You have beaten the maze.
+6. Input an exit position (Positions: Level 1 - 0 to 8, Level 2 - 0 to 14, Level 3 - 0 to 24). **Note:** You *can* technically input the same position for both the start and exit positions, but this will immediately result in a victory and terminate the program. You may input an exit position that is higher in number than the start position, and vice versa.
+8. Input a move. Available moves will be displayed. Repeat until you reach the exit position.
+9. Once you reach the exit position, congratulations! You have beaten the maze.
